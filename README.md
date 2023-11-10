@@ -20,7 +20,7 @@ To use this script, ensure you have Python installed on your system. Copy the co
 ```bash
 python linear_search_example.py
 
-# Example
+## Example
 
 The script includes an example usage of the linear_search function. It searches for a target value within a sample list and prints whether the target was found and at which index.
 
@@ -35,7 +35,7 @@ if result != -1:
 else:
     print(f"Target {target_value} not found in the list")
 
-# Function Details
+## Function Details
 
 linear_search(arr, target)
 Perform linear search to find the target in the given list.
